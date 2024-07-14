@@ -6,7 +6,7 @@ import logo from "../../../../../public/assets/img/logo.webp";
 const Navbar = () => {
     return (
         <div className="  ">
-            <div className="navbar bg-base-100 shadow-xl px-28">
+            <div className="navbar bg-base-100 shadow-xl md:px-28">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden ">
