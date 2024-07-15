@@ -21,7 +21,7 @@ const config: Config = {
       },
       animation: {
         fadeInUp: 'fadeInUp 1.5s ease-in-out',
-        jump: 'jump 0.5s ease-in-out infinite',
+        jump: 'jump 1.5s ease-in-out infinite',
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
